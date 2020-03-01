@@ -1,0 +1,10 @@
+/home/valli/RiderProjects/University/Entities/obj/Debug/netcoreapp3.0/Entities.csprojAssemblyReference.cache
+/home/valli/RiderProjects/University/Entities/obj/Debug/netcoreapp3.0/Entities.AssemblyInfoInputs.cache
+/home/valli/RiderProjects/University/Entities/obj/Debug/netcoreapp3.0/Entities.AssemblyInfo.cs
+/home/valli/RiderProjects/University/Entities/bin/Debug/netcoreapp3.0/Entities.deps.json
+/home/valli/RiderProjects/University/Entities/bin/Debug/netcoreapp3.0/Entities.runtimeconfig.json
+/home/valli/RiderProjects/University/Entities/bin/Debug/netcoreapp3.0/Entities.runtimeconfig.dev.json
+/home/valli/RiderProjects/University/Entities/bin/Debug/netcoreapp3.0/Entities.dll
+/home/valli/RiderProjects/University/Entities/bin/Debug/netcoreapp3.0/Entities.pdb
+/home/valli/RiderProjects/University/Entities/obj/Debug/netcoreapp3.0/Entities.dll
+/home/valli/RiderProjects/University/Entities/obj/Debug/netcoreapp3.0/Entities.pdb
