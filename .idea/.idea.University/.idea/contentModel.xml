@@ -42,6 +42,7 @@
         </e>
       </e>
       <e p="BLL.Tests" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="BLL.Tests.csproj" t="IncludeRecursive" />
         <e p="DepartmentManagerTests.cs" t="Include" />
         <e p="FacultyManagerTests.cs" t="Include" />
