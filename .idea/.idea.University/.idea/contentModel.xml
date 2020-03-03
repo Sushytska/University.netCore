@@ -88,6 +88,7 @@
         </e>
       </e>
       <e p="Entities" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="DTOModels" t="Include">
           <e p="DepartmentDTO.cs" t="Include" />
           <e p="FacultyDTO.cs" t="Include" />
