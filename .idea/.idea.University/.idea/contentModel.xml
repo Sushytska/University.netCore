@@ -18,7 +18,6 @@
     <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="BLL" t="IncludeRecursive">
-        <e p=".gitignore" t="Include" />
         <e p="AttributeValidator.cs" t="Include" />
         <e p="BLL.csproj" t="IncludeRecursive" />
         <e p="Interfaces" t="Include">
@@ -42,7 +41,6 @@
         </e>
       </e>
       <e p="BLL.Tests" t="IncludeRecursive">
-        <e p=".gitignore" t="Include" />
         <e p="BLL.Tests.csproj" t="IncludeRecursive" />
         <e p="DepartmentManagerTests.cs" t="Include" />
         <e p="FacultyManagerTests.cs" t="Include" />
@@ -59,7 +57,6 @@
         </e>
       </e>
       <e p="DAL" t="IncludeRecursive">
-        <e p=".gitignore" t="Include" />
         <e p="DAL.csproj" t="IncludeRecursive" />
         <e p="Interfaces" t="Include">
           <e p="IRepository.cs" t="Include" />
@@ -88,7 +85,6 @@
         </e>
       </e>
       <e p="Entities" t="IncludeRecursive">
-        <e p=".gitignore" t="Include" />
         <e p="DTOModels" t="Include">
           <e p="DepartmentDTO.cs" t="Include" />
           <e p="FacultyDTO.cs" t="Include" />
@@ -120,7 +116,6 @@
       </e>
       <e p="University.sln" t="IncludeFlat" />
       <e p="WebApp" t="IncludeRecursive">
-        <e p=".gitignore" t="Include" />
         <e p="Controllers" t="Include">
           <e p="DepartmentsController.cs" t="Include" />
           <e p="FacultiesController.cs" t="Include" />

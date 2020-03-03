@@ -1,0 +1,13 @@
+/home/valli/RiderProjects/University/DAL/bin/Debug/netcoreapp3.0/DAL.deps.json
+/home/valli/RiderProjects/University/DAL/bin/Debug/netcoreapp3.0/DAL.dll
+/home/valli/RiderProjects/University/DAL/bin/Debug/netcoreapp3.0/DAL.pdb
+/home/valli/RiderProjects/University/DAL/obj/Debug/netcoreapp3.0/DAL.csprojAssemblyReference.cache
+/home/valli/RiderProjects/University/DAL/obj/Debug/netcoreapp3.0/DAL.AssemblyInfoInputs.cache
+/home/valli/RiderProjects/University/DAL/obj/Debug/netcoreapp3.0/DAL.AssemblyInfo.cs
+/home/valli/RiderProjects/University/DAL/obj/Debug/netcoreapp3.0/DAL.dll
+/home/valli/RiderProjects/University/DAL/obj/Debug/netcoreapp3.0/DAL.pdb
+/home/valli/RiderProjects/University/DAL/bin/Debug/netcoreapp3.0/DAL.runtimeconfig.json
+/home/valli/RiderProjects/University/DAL/bin/Debug/netcoreapp3.0/DAL.runtimeconfig.dev.json
+/home/valli/RiderProjects/University/DAL/bin/Debug/netcoreapp3.0/Entities.dll
+/home/valli/RiderProjects/University/DAL/bin/Debug/netcoreapp3.0/Entities.pdb
+/home/valli/RiderProjects/University/DAL/obj/Debug/netcoreapp3.0/DAL.csproj.CopyComplete
