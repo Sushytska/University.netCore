@@ -120,6 +120,7 @@
       </e>
       <e p="University.sln" t="IncludeFlat" />
       <e p="WebApp" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="Controllers" t="Include">
           <e p="DepartmentsController.cs" t="Include" />
           <e p="FacultiesController.cs" t="Include" />
