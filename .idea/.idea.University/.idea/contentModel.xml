@@ -59,6 +59,7 @@
         </e>
       </e>
       <e p="DAL" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="DAL.csproj" t="IncludeRecursive" />
         <e p="Interfaces" t="Include">
           <e p="IRepository.cs" t="Include" />
